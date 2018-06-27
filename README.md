@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
@@ -26,9 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/smoky-owl/SimpleTodo/blob/master/zmLB6d6DjM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/smoky-owl/SimpleTodo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-! [Walkthrough] (zmLB6d6DjM.gif)
 
 ## Notes
 
